@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aidan Ward</h1>
-<h3 align="center">A recent UNR under-graduate and aspiring full-stack engineer</h3>
+<h3 align="center">Aspiring full-stack engineer with background in Mathematics</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
