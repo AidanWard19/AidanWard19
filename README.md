@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Slopopedia](https://github.com/jahorwitz/slopopedia)
 
-- 🌱 I’m currently learning **GraphQL**
+- 🌱 I’m currently learning **UnrealEngine** and **GraphQL**
 
 - 📫 How to reach me **AWard8192000@gmail.com**
 
