@@ -3,7 +3,9 @@
 
 - 🔭 I’m currently working on [Slopopedia](https://github.com/jahorwitz/slopopedia)
 
-- 🌱 I’m currently learning **UnrealEngine**, **TailwindCSS**, and **GraphQL**
+- 🌱 I’m currently learning **TailwindCSS**, and **GraphQL**
+
+- Unreal Engine Team Project -- https://github.com/Austin-Nicholson/Alien_Out_Shopping
 
 - 📫 How to reach me **AWard8192000@gmail.com**
 
